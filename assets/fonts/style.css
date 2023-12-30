@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'Ubuntu-Bold';
+   font-display: swap;
+   src: url('Ubuntu-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'Ubuntu-Medium';
+   font-display: swap;
+   src: url('Ubuntu-Medium/font.ttf');
+}
+@font-face {
+   font-family: 'Ubuntu-Regular';
+   font-display: swap;
+   src: url('Ubuntu-Regular/font.ttf');
+}
