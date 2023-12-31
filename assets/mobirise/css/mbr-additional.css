@@ -1417,7 +1417,8 @@ a {
   width: 100%;
 }
 .cid-tZP2Nrixy0 {
-  background-image: url("../../../assets/images/blurred1.jpg");
+  background-image: url("../../../assets/images/code4.jpg");
+  opacity:0.8;
 }
 .cid-tZP2Nrixy0 .mbr-section-title {
   color: #ffffff;
@@ -2271,7 +2272,8 @@ a {
   }
 }
 .cid-tZPfvgu0iP {
-  background-image: url("../../../assets/images/blurred1.jpg");
+  background-image: url("../../../assets/images/code4.jpg");
+  opacity:0.8;
 }
 .cid-tZPfvgu0iP .mbr-section-title {
   color: #ffffff;
@@ -2811,11 +2813,12 @@ a {
   }
 }
 .cid-tZV4C6w5gK {
-  background-image: url("../../../assets/images/blurred1.jpg");
+  background-image: url("../../../assets/images/code4.jpg");
+  opacity:0.8;
 }
 .cid-tZV4C6w5gK .mbr-section-title {
   text-align: center;
-  color: #ffffff;
+  color:#ffffff;
 }
 .cid-tZV4MhqGuc {
   padding-top: 6rem;
@@ -3418,10 +3421,11 @@ a {
   }
 }
 .cid-tZWiUbBf8w {
-  background-image: url("../../../assets/images/blurred1.jpg");
+  background-image: url("../../../assets/images/code4.jpg");
+  opacity:0.8;
 }
 .cid-tZWiUbBf8w .mbr-section-title {
-  color: #ffffff;
+  color:#ffffff;
 }
 .cid-tZWw2bKJY0 {
   padding-top: 5rem;
@@ -3432,10 +3436,6 @@ a {
   padding-top: 6rem;
   padding-bottom: 6rem;
   background-color: #ffffff;
-}
-.cid-tZWjeFHwh4 .mbr-overlay {
-  background-color: #ffffff;
-  opacity: 0.4;
 }
 .cid-tZWjeFHwh4 form .mbr-section-btn {
   text-align: center;
@@ -3523,6 +3523,7 @@ a {
 .cid-tZWjv3p68a .google-map iframe {
   height: 100%;
   width: 100%;
+  border:none;
 }
 .cid-tZWjv3p68a .google-map [data-state-details] {
   color: #6b6763;
